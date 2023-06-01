@@ -52,9 +52,8 @@ This challenge was another good practice for flexbox.
 ### Continued development
 
 For this challenge I used flexbox, I tried to use grid but, for now I'll stick to flexbox.
-The next step is to start using both flexbox and grid.
+The next step is to learn more about grid.
 
-The challenge was to create a NFT card, but I added three more cards to start practicing responsiveness.
 
 ### Useful resources
 
