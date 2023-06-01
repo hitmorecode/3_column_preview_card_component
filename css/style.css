@@ -29,6 +29,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
   height: inherit;
 }
 
@@ -95,7 +96,7 @@ body {
   color: var(--primary-very-dark-cyan);
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 600px) {
   .container {
     flex-direction: column;
     height: auto;
