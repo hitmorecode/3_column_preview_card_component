@@ -82,38 +82,38 @@ a {
   transition: background 300ms ease-in-out;
 }
 
-.btn:hover, .btn:focus {
+.btn:hover, 
+.btn:focus {
   background: var(--neutral-very-light-gray);
   cursor: pointer;
 }
 
-/* .btn:focus {
-  background: var(--neutral-very-light-gray);
-} */
-
-.btn-sedans:hover {
-  color: var(--primary-bright-orange);
-}
-
+.btn-sedans:hover, 
 .btn-sedans:focus {
   color: var(--primary-bright-orange);
 }
 
-.btn-suvs:hover {
-  color: var(--primary-dark-cyan);
-}
+/* .btn-sedans:focus {
+  color: var(--primary-bright-orange);
+} */
 
+.btn-suvs:hover, 
 .btn-suvs:focus {
   color: var(--primary-dark-cyan);
 }
 
-.btn-luxury:hover {
-  color: var(--primary-very-dark-cyan);
-}
+/* .btn-suvs:focus {
+  color: var(--primary-dark-cyan);
+} */
 
+.btn-luxury:hover, 
 .btn-luxury:focus {
   color: var(--primary-very-dark-cyan);
 }
+
+/* .btn-luxury:focus {
+  color: var(--primary-very-dark-cyan);
+} */
 
 @media only screen and (max-width: 600px) {
   .container {
