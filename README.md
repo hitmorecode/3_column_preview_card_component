@@ -47,7 +47,7 @@ Users should be able to:
 
 ### What I learned
 
-This challenge was a good way to practice using flexbox and position.
+This challenge was another good practice for flexbox and position.
 Using flexbox and position is very useful once you understand the basics of these concepts.
 
 ### Continued development
