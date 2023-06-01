@@ -19,6 +19,10 @@ body {
   font-family: "Big Shoulders Display", "Lexend Deca", Arial, Helvetica, sans-serif;
 }
 
+a {
+  text-decoration: none;
+}
+
 .hero {
   height: 100vh;
 }
@@ -80,9 +84,18 @@ body {
 
 .btn:hover {
   background: var(--neutral-very-light-gray);
+  cursor: pointer;
+}
+
+.btn:focus {
+  background: var(--neutral-very-light-gray);
 }
 
 .sedan > .btn:hover {
+  color: var(--primary-bright-orange);
+}
+
+.sedan > .btn:focus {
   color: var(--primary-bright-orange);
 }
 
@@ -90,7 +103,15 @@ body {
   color: var(--primary-dark-cyan);
 }
 
-.luxury > .btn:hover {
+.suvs > .btn:focus {
+  color: var(--primary-dark-cyan);
+}
+
+.luxury > .btn:hover, .btn:focus {
+  color: var(--primary-very-dark-cyan);
+}
+
+.luxury > .btn:focus {
   color: var(--primary-very-dark-cyan);
 }
 
