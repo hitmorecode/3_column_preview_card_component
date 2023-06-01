@@ -34,7 +34,7 @@ Users should be able to:
 
 - Solution URL: [HTML Solution](https://github.com/hitmorecode/3_column_preview_card_component/blob/main/index.html)
 - Solution URL: [CSS Solution](https://github.com/hitmorecode/3_column_preview_card_component/blob/main/css/style.css)
-- Live Site URL: [Live site](https://hitmorecode.github.io/NFT_preview_card_component/)
+- Live Site URL: [Live site](https://hitmorecode.github.io/3_column_preview_card_component/)
 
 ## My process
 
@@ -47,12 +47,12 @@ Users should be able to:
 
 ### What I learned
 
-This challenge was another good practice for flexbox and position.
-Using flexbox and position is very useful once you understand the basics of these concepts.
+This challenge was another good practice for flexbox.
 
 ### Continued development
 
-Using flexbox and position was not so easy to start with, since I'm still new with these concepts. I'll be focusing on these subjects for the coming challenges.
+For this challenge I used flexbox, I tried to use grid but, for now I'll stick to flexbox.
+The next step is to start using both flexbox and grid.
 
 The challenge was to create a NFT card, but I added three more cards to start practicing responsiveness.
 
