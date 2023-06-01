@@ -82,36 +82,36 @@ a {
   transition: background 300ms ease-in-out;
 }
 
-.btn:hover {
+.btn:hover, .btn:focus {
   background: var(--neutral-very-light-gray);
   cursor: pointer;
 }
 
-.btn:focus {
+/* .btn:focus {
   background: var(--neutral-very-light-gray);
-}
+} */
 
-.sedan > .btn:hover {
+.btn-sedans:hover {
   color: var(--primary-bright-orange);
 }
 
-.sedan > .btn:focus {
+.btn-sedans:focus {
   color: var(--primary-bright-orange);
 }
 
-.suvs > .btn:hover {
+.btn-suvs:hover {
   color: var(--primary-dark-cyan);
 }
 
-.suvs > .btn:focus {
+.btn-suvs:focus {
   color: var(--primary-dark-cyan);
 }
 
-.luxury > .btn:hover {
+.btn-luxury:hover {
   color: var(--primary-very-dark-cyan);
 }
 
-.luxury > .btn:focus {
+.btn-luxury:focus {
   color: var(--primary-very-dark-cyan);
 }
 
