@@ -107,7 +107,7 @@ a {
   color: var(--primary-dark-cyan);
 }
 
-.luxury > .btn:hover, .btn:focus {
+.luxury > .btn:hover {
   color: var(--primary-very-dark-cyan);
 }
 
