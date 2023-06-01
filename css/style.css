@@ -93,27 +93,15 @@ a {
   color: var(--primary-bright-orange);
 }
 
-/* .btn-sedans:focus {
-  color: var(--primary-bright-orange);
-} */
-
 .btn-suvs:hover, 
 .btn-suvs:focus {
   color: var(--primary-dark-cyan);
 }
 
-/* .btn-suvs:focus {
-  color: var(--primary-dark-cyan);
-} */
-
 .btn-luxury:hover, 
 .btn-luxury:focus {
   color: var(--primary-very-dark-cyan);
 }
-
-/* .btn-luxury:focus {
-  color: var(--primary-very-dark-cyan);
-} */
 
 @media only screen and (max-width: 600px) {
   .container {
